@@ -1,0 +1,3 @@
+csv adaptive endefffector
+simulation time: 20s
+k: 2.115 N/mm

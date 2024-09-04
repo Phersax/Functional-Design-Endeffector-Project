@@ -1,0 +1,2 @@
+csv parallel endefffector
+simulation time: 20s
