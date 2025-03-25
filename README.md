@@ -1,43 +1,42 @@
-# Robotic Grippers: 3-Finger Parallel vs. Adaptive Gripper  
+# 🤖 Robotic Grippers Comparative Analysis  
 
-![Descrizione della GIF](Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_motion.gif)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![3D Printable](https://img.shields.io/badge/3D-Printable-brightgreen)](https://www.thingiverse.com/)
+![SolidWorks](https://img.shields.io/badge/Design-SolidWorks-blue)
 
+## 📌 Project Overview  
+Open-source comparison of two robotic gripper designs:  
+- **🖐️ 3-Finger Parallel Gripper**  
+- **🔄 3-Finger Adaptive Gripper** (convertible from parallel version)  
 
-This repository contains 3D models and documentation for a comparative study between two robotic grippers:  
-- **3-Finger Parallel Gripper**  
-- **3-Finger Adaptive Gripper** (converted via adaptive phalanx)  
+Designed for academic research and DIY robotics enthusiasts.  
 
-## 📁 Repository Structure  
-/models
-/parallel_gripper # STL & SolidWorks files
-/adaptive_gripper # STL & conversion parts
-/docs
-report.pdf # Full analysis & test results
-assembly_guide.md # Step-by-step build instructions
+---
 
+## ✨ Key Features  
+✅ **Fully Open-Source** (CAD, docs, test data)  
+✅ **100% 3D-Printable** (FDM/resin compatible)  
+✅ **Modular Design** (Swap between parallel/adaptive modes)  
+✅ **Experimental Data Included** (Grip force, object compatibility tests)  
 
-## 🛠️ Features  
-- **3D-Printable Designs**: Optimized STL files for FDM printing  
-- **Modular Conversion**: Adapt parallel gripper with printable phalanx  
-- **Performance Data**: Force tests & object manipulation comparisons  
+---
 
-## 🖨️ 3D Printing Guide  
-| Parameter        | Recommended Value |  
-|------------------|-------------------|  
-| Material         | PLA+/PETG         |  
-| Nozzle           | 0.4mm             |  
-| Infill           | 25%               |  
-| Supports         | Enabled (for joints)|  
-
-💡 **Pro Tip**: Use `0.2mm layer height` for smoother articulation  
-
-## ⚖️ License  
-MIT License - Free for commercial use, modifications, and distribution.  
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-
-## 🔧 Contributing  
-1. Fork the repository  
-2. Create a branch (`git checkout -b improve-feature`)  
-3. Commit changes (`git commit -am 'Add new gripper variant'`)  
-4. Push to branch (`git push origin improve-feature`)  
-5. Open a Pull Request 
+## 🛠️ Repository Structure  
+/project
+│
+├── /CAD_Files # Design source files
+│ ├── Parallel_Gripper # STEP, SLDPRT, STL
+│ └── Adaptive_Conversion # Phalanx mods & assembly
+│
+├── /Docs
+│ ├── Assembly_Guide.pdf # Step-by-step build
+│ ├── BOM.xlsx # Bill of Materials
+│ └── Test_Protocols.md # How to replicate experiments
+│
+├── /3D_Printables # Pre-sliced STLs
+│ ├── High_Resolution # 0.1mm profiles
+│ └── Fast_Print # 0.3mm profiles
+│
+└── /Results # Force/performance metrics
+├── Parallel_Gripper
+└── Adaptive_Gripper
