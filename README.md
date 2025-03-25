@@ -1,6 +1,6 @@
 # Robotic Grippers: 3-Finger Parallel vs. Adaptive Gripper  
 
-![Grippers Preview](preview.jpg) *(Optional: add image path if available)*  
+![Grippers Preview](Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_motion.gif)
 
 This repository contains 3D models and documentation for a comparative study between two robotic grippers:  
 - **3-Finger Parallel Gripper**  
