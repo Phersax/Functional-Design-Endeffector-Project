@@ -1,15 +1,12 @@
 # Robotic Grippers Comparative Analysis  
-This study aims to conduct a comparative analysis between two types of grippers used in robotic manipulation: a 3-finger parallel gripper and a 3-finger adaptive gripper. The research will begin with a description of the development of the parallel gripper and will continue with the design of an adaptive phalanx that will convert the developed parallel gripper into an adaptive gripper. Additionally, the analysis will include a thorough evaluation of the performance of both devices, with particular emphasis on their manipulation capabilities.
-
-Through a series of experimental tests, the performance of the two grippers will be examined in different operational contexts to provide a detailed analysis of their features and advantages. The objective is to provide an in-depth understanding of the performance differences between the two devices.
-
-The 3D modeling will be carried out using SolidWorks software.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![3D Printable](https://img.shields.io/badge/3D-Printable-brightgreen)](https://www.thingiverse.com/)
 ![SolidWorks](https://img.shields.io/badge/Design-SolidWorks-blue)
 
 ## Project Overview  
+This study aims to conduct a comparative analysis between two types of grippers used in robotic manipulation: a 3-finger parallel gripper and a 3-finger adaptive gripper. The research will begin with a description of the development of the parallel gripper and will continue with the design of an adaptive phalanx that will convert the developed parallel gripper into an adaptive gripper. Additionally, the analysis will include a thorough evaluation of the performance of both devices, with particular emphasis on their manipulation capabilities.
+The 3D modeling will be carried out using SolidWorks software.
+
 Open-source comparison of two robotic gripper designs:  
 - 3-Finger Parallel Gripper  
 - 3-Finger Adaptive Gripper (convertible from parallel version)  
