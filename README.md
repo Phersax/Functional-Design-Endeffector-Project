@@ -13,8 +13,8 @@ Designed for academic research and DIY robotics enthusiasts.
 
 ## Assembly
 <p align="center">
-  <img src="https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_close.png?raw=true" width="30.5%" />
   <img src="https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_open.png?raw=true" width="40%" />
+  <img src="https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_close.png?raw=true" width="30.5%" />
 </p>
 
 
