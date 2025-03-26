@@ -13,8 +13,13 @@ Designed for academic research and DIY robotics enthusiasts.
 
 ## Assembly
 <p align="center">
-  <img src="https://github.com/tuo-username/tuo-repo/blob/main/image1.png](https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_open.png?raw=true" width="45%" />
-  <img src="https://github.com/tuo-username/tuo-repo/blob/main/image2.png](https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_close.png?raw=true" width="45%" />
+  <img src="URL_DELLA_PRIMA_IMMAGINE" width="45%" />
+  <img src="URL_DELLA_SECONDA_IMMAGINE" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/tuo-username/tuo-repo/blob/main/image1.png](https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_open.png?raw=true" width="100%" />
+  <img src="https://github.com/tuo-username/tuo-repo/blob/main/image2.png](https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_close.png?raw=true" width="100%" />
 </p>
 
 
