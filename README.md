@@ -6,14 +6,14 @@
 
 ## Project Overview  
 Open-source comparison of two robotic gripper designs:  
-- ** 3-Finger Parallel Gripper**  
-- ** 3-Finger Adaptive Gripper** (convertible from parallel version)  
+- 3-Finger Parallel Gripper  
+- 3-Finger Adaptive Gripper (convertible from parallel version)  
 
 Designed for academic research and DIY robotics enthusiasts.  
 
 ## Assembly
 <p align="center">
-  <img src="https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_close.png?raw=true" width="30" />
+  <img src="https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_close.png?raw=true" width="30%" />
   <img src="https://github.com/Phersax/Functional-Design-Endeffector-Project/blob/main/Endeffector_adaptive_config-3f_1gdl/adaptive_endeffector_medias/assembly_open.png?raw=true" width="40%" />
 </p>
 
